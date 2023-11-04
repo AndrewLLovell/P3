@@ -1,0 +1,19 @@
+// ID
+// Name
+// Category
+// Sub-Category
+// Description
+// Price
+// support 3 categories --> separate file
+// several sub-categories --> several classes in one file
+// somewhere around 12-15 sub-categories
+// we have to do a capacitorInfo... and then 2 of our own choice
+// for the sub categories "EDLC And Supercapacitors", the "mica And PTFE" , "capacitor networks And arrays", 
+//and "trimmer And variable"
+// need a UML for V1 and V2... the drawio thing
+
+
+//PMS.V2
+public abstract class ProductInfo{
+
+}
